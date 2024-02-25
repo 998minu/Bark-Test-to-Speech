@@ -1,6 +1,6 @@
 # Bark-Test-to-Speech
 
-Certainly! Here's a more human-centered version of the problem statement:
+Problem statement:
 
 Imagine you're a news anchor delivering breaking headlines to the world. Your job is to capture the audience's attention and accurately convey the news's essence. But you don't just read the words; you bring them to life with your voice!
 
